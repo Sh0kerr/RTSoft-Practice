@@ -1,0 +1,1 @@
+cmd_/home/fuck/study/cyclic-buffer/kern-files/modules.order := {   echo /home/fuck/study/cyclic-buffer/kern-files/drv.ko; :; } | awk '!x[$$0]++' - > /home/fuck/study/cyclic-buffer/kern-files/modules.order

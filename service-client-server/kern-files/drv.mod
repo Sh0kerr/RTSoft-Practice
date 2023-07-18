@@ -1,0 +1,1 @@
+/home/fuck/study/service-client-server/kern-files/drv.o

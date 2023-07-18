@@ -1,0 +1,1 @@
+cmd_/home/fuck/study/service-client-server/kern-files/drv.mod := printf '%s\n'   drv.o | awk '!x[$$0]++ { print("/home/fuck/study/service-client-server/kern-files/"$$0) }' > /home/fuck/study/service-client-server/kern-files/drv.mod

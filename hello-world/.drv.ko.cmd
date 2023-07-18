@@ -1,0 +1,1 @@
+cmd_/home/fuck/study/hello-world/drv.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/fuck/study/hello-world/drv.ko /home/fuck/study/hello-world/drv.o /home/fuck/study/hello-world/drv.mod.o;  true

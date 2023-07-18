@@ -1,0 +1,9 @@
+[Unit]
+Description=Server
+
+[Service]
+ExecStart=/home/test/study/task-7/files/server/build/server
+
+[Install]
+WantedBy=multi-user.target
+

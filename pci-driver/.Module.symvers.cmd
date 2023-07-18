@@ -1,0 +1,1 @@
+cmd_/home/fuck/study/pci-driver/Module.symvers := sed 's/ko$$/o/' /home/fuck/study/pci-driver/modules.order | scripts/mod/modpost -m -a  -o /home/fuck/study/pci-driver/Module.symvers -e -i Module.symvers   -T -

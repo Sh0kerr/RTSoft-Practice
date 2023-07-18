@@ -1,0 +1,5 @@
+/home/fuck/study/service-client-server/files/server/build/CMakeFiles/server.dir
+/home/fuck/study/service-client-server/files/server/build/CMakeFiles/package.dir
+/home/fuck/study/service-client-server/files/server/build/CMakeFiles/package_source.dir
+/home/fuck/study/service-client-server/files/server/build/CMakeFiles/edit_cache.dir
+/home/fuck/study/service-client-server/files/server/build/CMakeFiles/rebuild_cache.dir

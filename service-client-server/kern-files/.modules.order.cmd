@@ -1,0 +1,1 @@
+cmd_/home/fuck/study/service-client-server/kern-files/modules.order := {   echo /home/fuck/study/service-client-server/kern-files/drv.ko; :; } | awk '!x[$$0]++' - > /home/fuck/study/service-client-server/kern-files/modules.order
